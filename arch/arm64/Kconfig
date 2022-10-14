@@ -839,4 +839,4 @@ endif
 
 source "lib/Kconfig"
 
-source "virt/kvm/Kconfig"
+source "arch/arm64/kvm/Kconfig"
